@@ -1,0 +1,6 @@
+name: FranekBlockBreak
+version: '1.0'
+main: dev.franek.blockbreak.FranekBlockBreak
+api-version: '1.16'
+author: franek_
+description: Plugin made by franek_ - https://github.com/Blejziak
